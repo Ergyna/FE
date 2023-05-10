@@ -3,7 +3,7 @@ import './Header.css'
 const Header = () => {
     return (
         <div className='header-container'>
-            <h2>The Phone Zone</h2>
+            <h2>Toko Handphone Pedia</h2>
         </div>
     );
 };
